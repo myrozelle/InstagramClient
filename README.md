@@ -17,6 +17,7 @@ User Stories:
 
 Questions
 - What is the best way to ensure that images used as icons have the right size and good resolution and fit in with surrounding widgets?  I took me a while to make it look like in the walkthrough and was wondering if there's an easier way.
+- I follow Tip#5 in project hints to make photo appear more like the display on the official Instagram but didn't see a noticeable difference from my basic version.  Did I implement it correctly?
 
 Walkthrough
 
